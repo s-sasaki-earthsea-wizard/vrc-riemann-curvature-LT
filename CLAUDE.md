@@ -1,8 +1,32 @@
-# Project Name
+# VRC Riemann Curvature LT
 
 ## プロジェクト概要
 
-プロジェクトの概要を記載します。
+リーマン曲率を潮汐力から直感的に理解するYouTube動画およびプレゼンテーション資料の作成プロジェクト。
+共変微分やクリストッフェル記号などの数学的道具を使わず、一般相対性理論の核心概念を解説する。
+
+## ディレクトリ構造
+
+```text
+vrc-riemann-curvature-LT/
+├── CLAUDE.md                 # プロジェクト設定・開発ルール
+├── README.md                 # プロジェクト概要
+├── Makefile                  # ビルドコマンド
+├── docs/                     # 参考文献
+│   └── chapter5.pdf          # Tidal Forces and Curvature (J. Rubio)
+├── slides-jp/                # スライド・動画関連（reveal.js）
+│   ├── index.html            # メインスライド
+│   ├── yt_script.md          # YouTube動画脚本（本文）
+│   ├── yt_script_outline.md  # 脚本の章立てドラフト・補足メモ
+│   ├── youtube_description.md # 動画説明文
+│   ├── yt_script_tts.md      # TTS用スクリプト
+│   ├── css/                  # スタイルシート
+│   ├── js/                   # JavaScript
+│   ├── assets/               # 画像等のアセット
+│   └── plugin/               # reveal.jsプラグイン
+├── scripts/                  # ユーティリティスクリプト
+└── .github/                  # GitHubテンプレート
+```
 
 ## 言語設定
 
