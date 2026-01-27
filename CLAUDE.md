@@ -42,6 +42,11 @@ vrc-riemann-curvature-LT/
 - 定数: UPPER_SNAKE_CASE
 - Docstring: Google Style
 
+### Manimアニメーション
+
+- アニメーション内のテキスト・ラベルは**日英併記**とする
+- 国際的な視聴者にも理解できるよう、日本語と英語を併記する
+
 ## Git運用
 
 - ブランチ戦略: feature/*, fix/*, refactor/*
