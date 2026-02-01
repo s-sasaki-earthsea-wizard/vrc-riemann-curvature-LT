@@ -795,53 +795,43 @@ class GravityWellMetric(Scene):
         self.wait(0.8)
 
         # ===== 測地線（最短経路）の計算と表示 =====
-        # ボールの開始点と終了点（重力井戸を迂回する経路）
-        start_point = np.array([-2.0, 1.5, 0])
-        end_point = np.array([2.0, -1.0, 0])
+        # 格子点を始点・終点に設定
+        # 左から1番目(x=-2.5)、上から4番目(y=1.0) → 右から1番目(x=2.5)、上から4番目(y=1.0)
+        start_point = np.array([-grid_size, 1.0, 0])  # A: 左端、上から4番目
+        end_point = np.array([grid_size, 1.0, 0])     # B: 右端、上から4番目
 
-        # 測地線の計算（変形空間での最短経路）
-        # 簡易的に：重力井戸を避けて曲がる経路を数値的に生成
-        def compute_geodesic(start, end, num_points=50):
+        # 測地線の計算：変形前の直線を warp_point で変形
+        # これにより「格子の目盛りではまっすぐ」な経路が得られる
+        def compute_geodesic_on_grid(start, end, num_points=50):
             """
-            変形空間での測地線を近似計算
-            中心付近は「距離が長い」ので迂回する経路が最短になる
+            格子に沿った測地線を計算
+            変形前の直線を同じ変形関数で歪める
+            → 格子の目盛りでは「まっすぐ」だが、ユークリッド的には曲がって見える
             """
-            # 直線経路
-            direct_path = [
-                start + (end - start) * t / (num_points - 1)
-                for t in range(num_points)
-            ]
-
-            # 重力井戸の影響で曲がる経路を計算
-            # 簡易モデル：中心からの距離に応じて経路を外側に押し出す
             geodesic_points = []
-            for i, p in enumerate(direct_path):
+            for i in range(num_points):
                 t = i / (num_points - 1)
-                # 経路の中央付近で最大の迂回
-                deflection = np.sin(t * PI) ** 2
-
-                # 中心からの方向
-                r = np.sqrt(p[0]**2 + p[1]**2)
-                if r > 0.1:
-                    # 中心から離れる方向に押し出す
-                    push_strength = 0.6 * deflection * np.exp(-(r / 1.5)**2)
-                    push_dir = np.array([p[0] / r, p[1] / r, 0])
-                    new_p = p + push_dir * push_strength
-                else:
-                    new_p = p
-                geodesic_points.append(new_p)
-
+                # 変形前の直線上の点
+                p = start + (end - start) * t
+                # 格子と同じ変形を適用
+                warped_p = warp_point(p)
+                geodesic_points.append(warped_p)
             return geodesic_points
 
-        geodesic_points = compute_geodesic(start_point, end_point)
+        geodesic_points = compute_geodesic_on_grid(start_point, end_point)
 
         # 測地線の描画
         geodesic_line = VMobject(color=ORANGE, stroke_width=4)
         geodesic_line.set_points_smoothly(geodesic_points)
 
+        # 変形後の始点・終点
+        warped_start = warp_point(start_point)
+        warped_end = warp_point(end_point)
+
         # 直線（ユークリッド的最短）も表示して比較
+        # 変形後の始点・終点を結ぶ直線
         euclidean_line = DashedLine(
-            start_point, end_point,
+            warped_start, warped_end,
             color=RED_A,
             stroke_width=2,
             dash_length=0.15,
@@ -850,15 +840,15 @@ class GravityWellMetric(Scene):
         # ボール
         ball = Circle(radius=0.12, color=ORANGE, fill_opacity=0.9)
         ball.set_stroke(color=WHITE, width=2)
-        ball.move_to(start_point)
+        ball.move_to(warped_start)
 
-        # 開始点と終了点のマーカー
-        start_marker = Dot(start_point, radius=0.08, color=GREEN_C)
-        end_marker = Dot(end_point, radius=0.08, color=GREEN_C)
+        # 開始点と終了点のマーカー（変形後の位置）
+        start_marker = Dot(warped_start, radius=0.08, color=GREEN_C)
+        end_marker = Dot(warped_end, radius=0.08, color=GREEN_C)
         start_label = Text("A", font_size=14, color=GREEN_C)
         start_label.next_to(start_marker, UP + LEFT, buff=0.1)
         end_label = Text("B", font_size=14, color=GREEN_C)
-        end_label.next_to(end_marker, DOWN + RIGHT, buff=0.1)
+        end_label.next_to(end_marker, UP + RIGHT, buff=0.1)
 
         self.play(
             FadeIn(start_marker),
@@ -882,8 +872,8 @@ class GravityWellMetric(Scene):
         self.wait(0.5)
 
         # ===== 測地線を表示 =====
-        geodesic_text = Text("格子の目盛りで測った最短経路（測地線）", font_size=16, color=ORANGE)
-        geodesic_text_en = Text("Shortest path in grid metric (Geodesic)", font_size=12, color=ORANGE)
+        geodesic_text = Text("格子に沿って「まっすぐ」進んだ経路", font_size=16, color=ORANGE)
+        geodesic_text_en = Text("Path going 'straight' along the grid", font_size=12, color=ORANGE)
         geodesic_text_group = VGroup(geodesic_text, geodesic_text_en).arrange(DOWN, buff=0.05)
         geodesic_text_group.to_edge(DOWN, buff=0.5)
 
