@@ -1,0 +1,447 @@
+1
+00:00:00,133 --> 00:00:04,717
+O que ocorre se soltarmos duas bolas juntas agora?
+
+2
+00:00:04,817 --> 00:00:08,897
+Acha que caem paralelas sem colidir, né?
+
+3
+00:00:08,997 --> 00:00:12,789
+Na verdade, é um pouco diferente.
+
+4
+00:00:12,889 --> 00:00:22,033
+Explorar essa questão nos leva ao cerne da relatividade geral: a curvatura do espaço-tempo.
+
+5
+00:00:22,133 --> 00:00:26,981
+Imagine que você está na cadeira assistindo este vídeo.
+
+6
+00:00:27,081 --> 00:00:33,729
+A distância da cabeça e dos pés até o centro da Terra varia um pouco.
+
+7
+00:00:33,829 --> 00:00:39,373
+Como seus pés estão mais perto, sentem mais gravidade.
+
+8
+00:00:39,473 --> 00:00:43,793
+Isso estica seu corpo levemente na vertical.
+
+9
+00:00:43,893 --> 00:00:47,709
+A menos que esteja vendo de ponta-cabeça!
+
+10
+00:00:47,809 --> 00:00:52,825
+É óbvio que esse efeito é pequeno demais para ser visto.
+
+11
+00:00:52,925 --> 00:01:00,341
+Mas essa curva espaço-tempo e a força de maré são a base da relatividade geral.
+
+12
+00:01:00,441 --> 00:01:08,673
+Hoje, usaremos isso para entender a curvatura do espaço-tempo de forma intuitiva.
+
+13
+00:01:08,773 --> 00:01:18,613
+Antes de falarmos sobre curvatura e forças de maré, vamos pensar: o que é a gravidade, afinal?
+
+14
+00:01:18,713 --> 00:01:24,425
+E se você estivesse em um avião e o motor parasse de repente?
+
+15
+00:01:24,525 --> 00:01:27,741
+Dentro de um avião em queda livre...
+
+16
+00:01:27,841 --> 00:01:33,169
+Você sentiria a falta de gravidade, como no vídeo.
+
+17
+00:01:33,269 --> 00:01:35,933
+Todos parecem se divertir!
+
+18
+00:01:36,033 --> 00:01:43,233
+Os astronautas flutuando na Estação Espacial seguem exatamente o mesmo princípio.
+
+19
+00:01:43,333 --> 00:01:52,501
+A estação está em queda livre constante ao redor da Terra, por isso quem está dentro não sente a gravidade.
+
+20
+00:01:52,601 --> 00:01:59,033
+Para quem está em queda livre, a gravidade parece ter sumido.
+
+21
+00:01:59,900 --> 00:02:07,028
+Alguém em uma caixa sem janelas não saberia dizer se está caindo em um avião...
+
+22
+00:02:07,128 --> 00:02:13,656
+Ou se está no espaço profundo sem gravidade. É impossível distinguir.
+
+23
+00:02:13,756 --> 00:02:18,233
+Localmente, não há diferença entre gravidade e aceleração.
+
+24
+00:02:18,333 --> 00:02:21,285
+É o Princípio da Equivalência.
+
+25
+00:02:21,385 --> 00:02:28,537
+Dizem que Einstein descreveu essa ideia como o pensamento mais feliz de sua vida.
+
+26
+00:02:28,766 --> 00:02:37,046
+Mas se a gravidade pode ser anulada assim, ela realmente existe ou é apenas uma ilusão?
+
+27
+00:02:37,146 --> 00:02:39,810
+Ainda existe, sim.
+
+28
+00:02:39,910 --> 00:02:44,830
+Há um efeito gravitacional que a queda livre não apaga.
+
+29
+00:02:44,930 --> 00:02:49,682
+E esse efeito é a força de maré que mencionei antes.
+
+30
+00:02:49,782 --> 00:02:55,302
+Vamos ver o que é essa gravidade que não pode ser anulada.
+
+31
+00:02:55,402 --> 00:02:58,954
+Imagine que temos duas bolas aqui.
+
+32
+00:02:59,054 --> 00:03:03,614
+Vamos soltá-las juntas em direção à Terra agora.
+
+33
+00:03:03,714 --> 00:03:07,170
+O que acontece com essas duas bolas?
+
+34
+00:03:07,270 --> 00:03:13,606
+Você deve achar que elas caem paralelas e nunca se tocam, certo?
+
+35
+00:03:13,706 --> 00:03:17,066
+Mas a rigor, não é bem assim.
+
+36
+00:03:17,166 --> 00:03:20,094
+Isso porque a Terra é redonda.
+
+37
+00:03:20,194 --> 00:03:24,250
+A gravidade puxa tudo pro centro da Terra.
+
+38
+00:03:24,350 --> 00:03:29,270
+Ambas as bolas caem para o centro em linhas convergentes.
+
+39
+00:03:29,370 --> 00:03:38,106
+Ou seja, enquanto caem, elas se aproximam até colidirem no centro do planeta.
+
+40
+00:03:38,206 --> 00:03:43,510
+Agora, vamos soltá-las alinhadas verticalmente.
+
+41
+00:03:43,610 --> 00:03:47,426
+Qual delas você acha que cai mais rápido?
+
+42
+00:03:47,526 --> 00:03:50,622
+A resposta é a bola de baixo.
+
+43
+00:03:50,722 --> 00:03:54,874
+Perto da Terra, a gravidade é maior.
+
+44
+00:03:54,974 --> 00:04:00,038
+Cai mais rápido, e a distância entre elas aumenta.
+
+45
+00:04:00,138 --> 00:04:05,082
+As duas bolas se afastam gradualmente durante a queda.
+
+46
+00:04:06,300 --> 00:04:12,924
+Agora, como isso seria visto de dentro de um avião em queda livre?
+
+47
+00:04:13,024 --> 00:04:19,360
+Como você cai com o avião, as bolas parecem flutuar no ar.
+
+48
+00:04:19,460 --> 00:04:24,860
+As laterais se aproximam, mas as verticais se afastam.
+
+49
+00:04:24,960 --> 00:04:31,248
+Mesmo em gravidade zero, as bolas parecem se mover sozinhas.
+
+50
+00:04:31,348 --> 00:04:36,508
+Se a gravidade deveria ser indistinguível da aceleração...
+
+51
+00:04:36,608 --> 00:04:42,488
+por que as bolas se movem sozinhas dentro do avião em queda livre?
+
+52
+00:04:42,588 --> 00:04:47,844
+Isso é força de maré, pela diferença de gravidade.
+
+53
+00:04:47,944 --> 00:04:52,792
+É um efeito gravitacional que a queda livre não anula.
+
+54
+00:04:52,892 --> 00:04:57,260
+A maré nos oceanos é causada por essa força.
+
+55
+00:04:57,360 --> 00:05:04,464
+A gravidade lunar na Terra é mais forte no lado próximo e fraca no oposto.
+
+56
+00:05:04,564 --> 00:05:09,700
+Isso puxa o mar, criando as marés alta e baixa.
+
+57
+00:05:09,800 --> 00:05:16,016
+A espaguetificação em buracos negros é o exemplo extremo dessa força.
+
+58
+00:05:16,116 --> 00:05:20,292
+Perto de um buraco negro de forte gravidade...
+
+59
+00:05:20,392 --> 00:05:25,336
+A diferença de força entre cabeça e pés fica enorme.
+
+60
+00:05:25,436 --> 00:05:28,628
+Você vira um fio de espaguete.
+
+61
+00:05:28,728 --> 00:05:32,966
+A força de maré é o efeito real da gravidade.
+
+62
+00:05:33,066 --> 00:05:38,946
+Ao medir, você sabe se a gravidade está agindo em você.
+
+63
+00:05:39,046 --> 00:05:42,133
+Agora chegamos ao ponto principal de hoje.
+
+64
+00:05:42,233 --> 00:05:47,009
+Vejamos como a maré é a curvatura do espaço-tempo.
+
+65
+00:05:47,109 --> 00:05:50,925
+Lembre-se do experimento das duas bolas.
+
+66
+00:05:51,866 --> 00:05:56,954
+As laterais se aproximavam e as verticais se afastavam.
+
+67
+00:05:57,699 --> 00:06:00,411
+Vistas de dentro do avião...
+
+68
+00:06:00,511 --> 00:06:05,551
+parecem se mover sós, mesmo sem gravidade.
+
+69
+00:06:05,651 --> 00:06:10,235
+Isso é o que significa o espaço-tempo estar curvo.
+
+70
+00:06:10,335 --> 00:06:15,543
+No papel plano, linhas paralelas nunca se cruzam.
+
+71
+00:06:15,643 --> 00:06:19,675
+Mas em um espaço curvo, isso muda.
+
+72
+00:06:19,775 --> 00:06:23,183
+A Terra redonda é um exemplo disso.
+
+73
+00:06:23,283 --> 00:06:28,443
+A trajetória de um objeto em queda livre é a geodésica.
+
+74
+00:06:28,543 --> 00:06:33,823
+Geodésica é a rota mais curta no espaço-tempo curvo.
+
+75
+00:06:33,923 --> 00:06:41,339
+Objetos em queda livre seguem essas geodésicas, o caminho mais curto.
+
+76
+00:06:41,439 --> 00:06:45,759
+Quando a distância entre duas geodésicas muda...
+
+77
+00:06:45,859 --> 00:06:48,307
+É o desvio geodésico.
+
+78
+00:06:48,866 --> 00:06:53,618
+O fenômeno das bolas se aproximando ou se afastando...
+
+79
+00:06:53,718 --> 00:06:56,430
+é esse desvio geodésico.
+
+80
+00:06:56,530 --> 00:07:04,042
+No século 19, Bernhard Riemann descreveu como essas linhas se afastam...
+
+81
+00:07:04,142 --> 00:07:08,150
+o quanto essas linhas convergem ou divergem.
+
+82
+00:07:08,250 --> 00:07:11,994
+Isso é o que chamamos de Curvatura de Riemann.
+
+83
+00:07:12,094 --> 00:07:20,758
+Ela quantifica o quanto dois objetos próximos em queda livre convergem ou divergem entre si.
+
+84
+00:07:20,858 --> 00:07:28,442
+Einstein viu que a curvatura de Riemann era a curva do espaço-tempo e a própria gravidade.
+
+85
+00:07:28,542 --> 00:07:33,558
+A força de maré vem da diferença no desvio geodésico.
+
+86
+00:07:33,658 --> 00:07:42,010
+Quanto maior o desvio e a curvatura do espaço-tempo, mais forte será a força de maré.
+
+87
+00:07:42,110 --> 00:07:52,526
+Força de maré, desvio geodésico e Curvatura de Riemann são o mesmo conceito manifestado de formas diferentes.
+
+88
+00:07:52,626 --> 00:07:58,938
+A maré é um fenômeno diário que revela a curvatura do espaço-tempo.
+
+89
+00:08:01,166 --> 00:08:03,734
+Para quem gosta de pescar...
+
+90
+00:08:03,834 --> 00:08:09,138
+Você curte seu hobby graças à curvatura do espaço-tempo.
+
+91
+00:08:09,238 --> 00:08:14,950
+Para entender a curvatura, veremos o transporte paralelo.
+
+92
+00:08:15,050 --> 00:08:22,706
+Mesmo o ato de mover algo em paralelo revela coisas estranhas em um espaço curvo.
+
+93
+00:08:22,806 --> 00:08:27,558
+Imagine que você anda num quarto apontando para o sul.
+
+94
+00:08:27,658 --> 00:08:38,242
+Se você der uma volta completa e retornar ao início mantendo o dedo para o sul, ele ainda apontará na mesma direção.
+
+95
+00:08:38,342 --> 00:08:41,558
+Isso parece óbvio, não é?
+
+96
+00:08:41,658 --> 00:08:48,402
+Mas em superfícies curvas, como a Terra, é bem diferente.
+
+97
+00:08:48,502 --> 00:08:54,670
+Saia do Polo Norte indo para o sul até chegar à linha do Equador.
+
+98
+00:08:54,770 --> 00:09:02,234
+No Equador, ande 90 graus para leste com o dedo apontado para o sul.
+
+99
+00:09:02,334 --> 00:09:08,766
+Depois, mude de direção e volte direto para o Polo Norte.
+
+100
+00:09:08,866 --> 00:09:11,866
+Para onde o seu dedo vai apontar?
+
+101
+00:09:11,966 --> 00:09:17,942
+Incrível, ele se deslocou 90 graus da direção original!
+
+102
+00:09:18,042 --> 00:09:24,834
+Você apontou ao sul, mas ao dar a volta, a direção mudou.
+
+103
+00:09:24,934 --> 00:09:29,494
+Este é outro sentido de um "espaço curvo".
+
+104
+00:09:29,594 --> 00:09:36,890
+Mesmo seguindo reto, se o espaço for curvo, a direção muda.
+
+105
+00:09:36,990 --> 00:09:40,998
+Usamos o exemplo de caminhar sobre a Terra...
+
+106
+00:09:41,098 --> 00:09:50,794
+perto de objetos de forte gravidade, como buracos negros, o espaço-tempo curva-se igual.
+
+107
+00:09:50,894 --> 00:09:58,406
+Parece que a gravidade pode ser cancelada, como em um avião em queda livre.
+
+108
+00:09:58,506 --> 00:10:04,914
+Mas existe um efeito essencial que não some: a força de maré.
+
+109
+00:10:05,014 --> 00:10:09,733
+A Curvatura de Riemann descreve isso matematicamente,
+
+110
+00:10:09,833 --> 00:10:16,766
+e Einstein usou isso para criar a relatividade geral baseada na curvatura do espaço-tempo.
+
+111
+00:10:16,866 --> 00:10:22,794
+Até as marés mais simples revelam a natureza básica da gravidade.
+
+112
+00:10:22,894 --> 00:10:27,814
+Até o próximo vídeo, passe bem!
