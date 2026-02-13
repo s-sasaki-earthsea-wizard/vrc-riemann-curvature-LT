@@ -1,0 +1,327 @@
+1
+00:00:00,133 --> 00:00:05,773
+What do you think would happen if you dropped two balls side-by-side at the same time?
+
+2
+00:00:05,873 --> 00:00:10,481
+You'd think they'd fall in parallel and never hit each other, right?
+
+3
+00:00:10,699 --> 00:00:14,395
+Actually, strictly speaking, that's not quite right.
+
+4
+00:00:14,500 --> 00:00:21,412
+Exploring this question leads us to the heart of general relativity: the curvature of spacetime.
+
+5
+00:00:22,866 --> 00:00:27,210
+Let's say you're sitting in a chair right now watching this video.
+
+6
+00:00:27,310 --> 00:00:33,262
+There's a tiny difference in distance from the center of the Earth between your head and your feet.
+
+7
+00:00:33,362 --> 00:00:38,690
+Since your feet are closer to Earth, they feel a slightly stronger gravity.
+
+8
+00:00:39,633 --> 00:00:43,905
+As a result, your body is actually being stretched vertically.
+
+9
+00:00:44,005 --> 00:00:47,317
+Unless you're watching this while doing a handstand!
+
+10
+00:00:47,417 --> 00:00:52,481
+Of course, this effect is so small it's invisible to the naked eye.
+
+11
+00:00:53,333 --> 00:01:01,229
+But this stretching, caused by spacetime curvature and tidal forces, is the core of general relativity.
+
+12
+00:01:01,329 --> 00:01:08,913
+Today, let's use this as a clue to intuitively understand what 'spacetime curvature' actually is.
+
+13
+00:01:10,099 --> 00:01:17,683
+Before we dive into curvature and tidal forces, let's consider: what exactly is gravity anyway?
+
+14
+00:01:19,233 --> 00:01:23,889
+What would happen if you were on a plane and the engines suddenly stopped?
+
+15
+00:01:25,133 --> 00:01:31,493
+Inside a plane in freefall, you would experience weightlessness, just like in this video.
+
+16
+00:01:31,593 --> 00:01:34,161
+Everyone looks like they're having fun!
+
+17
+00:01:36,433 --> 00:01:42,385
+This is actually the same principle as why astronauts float inside the Space Station.
+
+18
+00:01:43,333 --> 00:01:49,789
+Because the Space Station is constantly falling around the Earth, those inside feel weightless.
+
+19
+00:01:53,766 --> 00:01:59,262
+To someone in freefall, it feels as if gravity has completely vanished.
+
+20
+00:01:59,900 --> 00:02:08,756
+If you were in a windowless box, you couldn't tell if you were falling, in orbit, or in deep space where gravity is weak.
+
+21
+00:02:14,266 --> 00:02:21,154
+Gravity and acceleration are locally indistinguishable. We call this the equivalence principle.
+
+22
+00:02:21,533 --> 00:02:26,621
+Einstein reportedly called this 'the happiest thought' of his life.
+
+23
+00:02:28,766 --> 00:02:35,366
+But if gravity can be canceled out, doesn't it make you wonder if gravity even truly exists?
+
+24
+00:02:37,766 --> 00:02:44,198
+In fact, there is a 'real' gravitational effect that even freefall cannot eliminate.
+
+25
+00:02:45,566 --> 00:02:48,710
+That is the tidal force we mentioned earlier.
+
+26
+00:02:50,266 --> 00:02:56,122
+Let's look specifically at what this 'un-cancelable gravity' really looks like.
+
+27
+00:02:56,699 --> 00:03:02,387
+Imagine two balls side-by-side, dropped simultaneously toward the Earth.
+
+28
+00:03:05,366 --> 00:03:07,214
+What would happen to them?
+
+29
+00:03:08,699 --> 00:03:12,587
+They seem like they should fall in parallel and never touch.
+
+30
+00:03:14,366 --> 00:03:16,862
+But strictly speaking, they don't.
+
+31
+00:03:16,962 --> 00:03:19,578
+This is because the Earth is a sphere.
+
+32
+00:03:20,533 --> 00:03:23,893
+Gravity pulls everything toward the Earth's center.
+
+33
+00:03:24,599 --> 00:03:32,615
+So, both balls fall toward that same center, meaning they slowly drift together and would eventually collide.
+
+34
+00:03:39,099 --> 00:03:44,331
+Now, let's try dropping two balls vertically, one above the other.
+
+35
+00:03:45,099 --> 00:03:47,091
+Which one falls faster?
+
+36
+00:03:47,191 --> 00:03:49,615
+The answer is the one on the bottom.
+
+37
+00:03:50,933 --> 00:03:58,253
+The ball closer to Earth feels stronger gravity, so it falls faster and the gap between them widens.
+
+38
+00:04:00,699 --> 00:04:04,563
+The two balls gradually move further apart as they fall.
+
+39
+00:04:06,300 --> 00:04:11,196
+What would this look like from inside a plane that is also in freefall?
+
+40
+00:04:13,766 --> 00:04:18,878
+Because they're falling with the plane, the balls appear to be floating inside.
+
+41
+00:04:20,366 --> 00:04:25,934
+Yet, horizontal balls move together, and vertical balls move apart.
+
+42
+00:04:27,333 --> 00:04:32,253
+Even in 'zero-g,' the balls move as if acting on their own.
+
+43
+00:04:33,333 --> 00:04:41,589
+Gravity is supposed to be indistinguishable from acceleration, yet inside that falling plane, there's still movement.
+
+44
+00:04:42,899 --> 00:04:50,939
+This is tidal force—the real gravitational effect caused by gravity varying from one point to another.
+
+45
+00:04:53,233 --> 00:04:57,241
+This same tidal force is what causes the ocean tides.
+
+46
+00:04:58,633 --> 00:05:06,289
+The moon's gravity is stronger on the side of Earth facing it than the side away. That difference pulls on the sea.
+
+47
+00:05:06,389 --> 00:05:13,037
+'Spaghettification' near a black hole is just an extreme example of this tidal force.
+
+48
+00:05:16,633 --> 00:05:24,913
+Near a black hole, the difference in gravity between your head and feet is so massive you'd be stretched out like a noodle.
+
+49
+00:05:28,966 --> 00:05:36,574
+Tidal force is the 'true' gravity; measuring it tells you if you are actually in a gravitational field.
+
+50
+00:05:39,166 --> 00:05:44,494
+Now for the main point: this tidal force IS spacetime curvature.
+
+51
+00:05:48,166 --> 00:05:55,174
+Recall the two balls: horizontal ones drifted together, while vertical ones drifted apart.
+
+52
+00:05:57,699 --> 00:06:03,747
+To an observer in freefall, they seem to move despite there being no local gravity.
+
+53
+00:06:06,466 --> 00:06:11,050
+That is exactly what we mean when we say spacetime is curved.
+
+54
+00:06:11,966 --> 00:06:18,182
+On flat paper, parallel lines stay parallel. But in curved space, they don't.
+
+55
+00:06:20,500 --> 00:06:27,556
+The spherical Earth is a perfect example. We call the path of a freefalling object a 'geodesic'.
+
+56
+00:06:29,399 --> 00:06:37,415
+A geodesic is the shortest path in curved spacetime. A falling object follows this straightest possible path.
+
+57
+00:06:42,399 --> 00:06:51,159
+The change in distance between two geodesics is called 'geodesic deviation.' The balls moving is just that.
+
+58
+00:06:56,866 --> 00:07:05,602
+In the 19th century, Bernhard Riemann created a mathematical way to describe how these lines converge or diverge.
+
+59
+00:07:05,702 --> 00:07:09,134
+This is today's star: Riemann Curvature.
+
+60
+00:07:12,866 --> 00:07:20,618
+Riemann curvature measures how much two nearby falling objects accelerate toward or away from each other.
+
+61
+00:07:22,166 --> 00:07:29,198
+Einstein realized that Riemann curvature is the curvature of spacetime, which is gravity itself.
+
+62
+00:07:30,666 --> 00:07:38,658
+Tidal forces arise from geodesic deviation; the more spacetime curves, the stronger the tidal force.
+
+63
+00:07:43,133 --> 00:07:52,037
+Tidal forces, geodesic deviation, and Riemann curvature are just different ways to describe the same concept.
+
+64
+00:07:52,933 --> 00:07:59,317
+So, the rise and fall of the tides is actually a everyday sign of spacetime curvature.
+
+65
+00:08:01,166 --> 00:08:07,286
+If you enjoy fishing, you could say you're out there reacting to the curvature of spacetime.
+
+66
+00:08:10,333 --> 00:08:15,349
+To understand curvature even better, let's look at parallel transport.
+
+67
+00:08:17,000 --> 00:08:22,064
+Even simple movement across curved spacetime leads to strange results.
+
+68
+00:08:23,300 --> 00:08:28,388
+Imagine you're in a room, pointing south, and you walk in a circle.
+
+69
+00:08:29,000 --> 00:08:36,560
+If you keep pointing south and return to the start, your finger is still pointing in the original direction, right?
+
+70
+00:08:39,000 --> 00:08:44,832
+That seems obvious, but on a curved surface like Earth, something else happens.
+
+71
+00:08:48,666 --> 00:08:53,946
+Stand at the North Pole, point south, and walk down to the equator.
+
+72
+00:08:55,633 --> 00:09:03,361
+At the equator, walk 90 degrees east along the line while still pointing your finger in that same direction.
+
+73
+00:09:05,000 --> 00:09:10,664
+Then, head straight back up to the North Pole. What direction are you pointing now?
+
+74
+00:09:10,764 --> 00:09:16,020
+Incredibly, your finger is now 90 degrees off from where it started.
+
+75
+00:09:18,666 --> 00:09:26,562
+Even though you never 'turned' your hand, the direction changed. That is another definition of curved space.
+
+76
+00:09:30,799 --> 00:09:36,391
+You can't maintain the same orientation if the space you're moving through is curved.
+
+77
+00:09:38,833 --> 00:09:46,849
+We used the Earth as an example, but spacetime curves the same way around massive objects like black holes.
+
+78
+00:09:51,266 --> 00:09:57,026
+Gravity can appear to vanish in a falling plane, making it seem like it's gone.
+
+79
+00:09:58,966 --> 00:10:04,606
+But tidal force is the essential gravitational effect that cannot be erased.
+
+80
+00:10:05,466 --> 00:10:14,322
+Riemann curvature describes this mathematically, and Einstein used it to define spacetime curvature in general relativity.
+
+81
+00:10:16,866 --> 00:10:23,514
+Even the tides in the ocean are connected to the very essence of gravity. Until next time!
+
+82
+00:10:25,533 --> 00:10:30,000
+See you in the next video. Have a good day!

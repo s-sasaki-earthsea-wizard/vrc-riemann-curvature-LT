@@ -1,0 +1,383 @@
+1
+00:00:00,133 --> 00:00:06,133
+Apa yang terjadi jika Anda menjatuhkan dua bola berdampingan secara bersamaan?
+
+2
+00:00:06,233 --> 00:00:09,473
+Pasti kira takkan tabrakan, kan?
+
+3
+00:00:09,573 --> 00:00:13,989
+Sebenarnya, secara teknis ini sedikit berbeda.
+
+4
+00:00:14,500 --> 00:00:22,060
+Mendalami pertanyaan ini akan membawa kita ke inti Relativitas Umum: "kelengkungan ruang-waktu".
+
+5
+00:00:22,160 --> 00:00:27,656
+Katakanlah Anda sekarang sedang duduk di kursi sambil menonton video ini.
+
+6
+00:00:27,756 --> 00:00:32,220
+Jarak kepala dan kaki ke pusat bumi sedikit berbeda.
+
+7
+00:00:32,320 --> 00:00:38,944
+Karena kaki lebih dekat ke bumi, ia menerima gravitasi yang sedikit lebih kuat.
+
+8
+00:00:39,044 --> 00:00:43,604
+Hasilnya, tubuh Anda ditarik dan memanjang sedikit.
+
+9
+00:00:43,704 --> 00:00:47,616
+Kalau nonton sambil kayang, ya sebaliknya!
+
+10
+00:00:47,716 --> 00:00:52,132
+Tentu saja efeknya sangat kecil hingga tak kasat mata.
+
+11
+00:00:52,232 --> 00:00:58,784
+Namun, lengkungan ruang-waktu dan gaya tidal inilah inti Relativitas Umum.
+
+12
+00:00:58,884 --> 00:01:07,404
+Mari kita gunakan ini sebagai petunjuk untuk memahami apa itu kelengkungan ruang-waktu secara intuitif.
+
+13
+00:01:10,099 --> 00:01:18,379
+Sebelum membahas itu, mari kita mulai dari pertanyaan mendasar: "Apa itu gravitasi?"
+
+14
+00:01:18,479 --> 00:01:24,167
+Apa yang terjadi jika mesin pesawat yang Anda tumpangi tiba-tiba mati?
+
+15
+00:01:25,133 --> 00:01:32,933
+Di dalam pesawat yang jatuh bebas, Anda akan mengalami kondisi tanpa bobot seperti di video ini.
+
+16
+00:01:33,033 --> 00:01:36,129
+Semuanya terlihat sangat menyenangkan!
+
+17
+00:01:36,433 --> 00:01:42,985
+Astronot yang melayang di Stasiun Luar Angkasa sebenarnya mengalami prinsip yang sama.
+
+18
+00:01:43,333 --> 00:01:52,765
+Karena Stasiun Luar Angkasa terus "jatuh" mengelilingi Bumi, orang di dalamnya berada dalam kondisi tanpa bobot.
+
+19
+00:01:53,766 --> 00:01:59,670
+Bagi orang yang sedang jatuh bebas, gravitasi terasa seolah-olah menghilang.
+
+20
+00:01:59,770 --> 00:02:05,818
+Di kotak tertutup, orang takkan tahu jika mereka sedang jatuh bebas.
+
+21
+00:02:07,400 --> 00:02:12,872
+atau memang sedang berada di ruang hampa yang gravitasinya sangat lemah.
+
+22
+00:02:12,972 --> 00:02:20,580
+Gravitasi dan akselerasi tidak bisa dibedakan secara lokal. Inilah Prinsip Ekuivalensi.
+
+23
+00:02:21,533 --> 00:02:28,205
+Konon, Einstein menyebut ide ini sebagai "ide paling cemerlang dalam hidupku".
+
+24
+00:02:28,766 --> 00:02:35,918
+Tapi jika gravitasi bisa "dihilangkan", apakah gravitasi itu benar-benar ada?
+
+25
+00:02:37,766 --> 00:02:39,974
+Ternyata bukan begitu.
+
+26
+00:02:40,074 --> 00:02:44,898
+Ada efek gravitasi nyata yang tak hilang saat jatuh bebas.
+
+27
+00:02:45,566 --> 00:02:49,382
+Itulah gaya pasang surut yang kita bahas tadi.
+
+28
+00:02:49,482 --> 00:02:56,082
+Mari saksikan apa itu "gravitasi yang tak bisa hilang" secara lebih konkret.
+
+29
+00:02:56,699 --> 00:02:59,603
+Anggaplah ada dua bola di sini.
+
+30
+00:03:00,066 --> 00:03:04,650
+Mari kita jatuhkan keduanya ke Bumi secara berdampingan.
+
+31
+00:03:04,750 --> 00:03:08,398
+Apa yang akan terjadi pada kedua bola tersebut?
+
+32
+00:03:08,699 --> 00:03:13,595
+Anda mungkin mengira keduanya akan sejajar selamanya, 'kan?
+
+33
+00:03:14,366 --> 00:03:19,406
+Tapi sebenarnya tidak. Itu karena Bumi berbentuk bulat.
+
+34
+00:03:20,533 --> 00:03:24,253
+Gravitasi bekerja mengarah ke pusat Bumi.
+
+35
+00:03:24,599 --> 00:03:29,663
+Jadi, setiap bola jatuh menuju titik pusat Bumi yang sama.
+
+36
+00:03:29,763 --> 00:03:37,467
+Artinya, kedua bola akan saling mendekat saat jatuh dan akhirnya bertabrakan di pusat Bumi.
+
+37
+00:03:37,567 --> 00:03:44,191
+Sekarang, mari jatuhkan dua bola dalam posisi berurutan dari atas ke bawah.
+
+38
+00:03:45,099 --> 00:03:47,811
+Mana yang akan jatuh lebih cepat?
+
+39
+00:03:47,911 --> 00:03:50,833
+Jawabannya adalah bola yang di bawah.
+
+40
+00:03:50,933 --> 00:03:55,349
+Bola bawah kena gravitasi kuat karena lebih dekat Bumi,
+
+41
+00:03:55,449 --> 00:03:59,817
+Jatuh lebih cepat, jarak ke bola atas makin lebar.
+
+42
+00:03:59,917 --> 00:04:04,621
+Kedua bola akan saling menjauh perlahan-lahan saat terjatuh.
+
+43
+00:04:06,300 --> 00:04:12,420
+Tapi bagaimana jika kita melihatnya dari dalam pesawat yang sedang jatuh bebas?
+
+44
+00:04:13,766 --> 00:04:17,990
+Bola tersebut akan tampak melayang di dalam pesawat.
+
+45
+00:04:18,090 --> 00:04:24,810
+Namun, bola yang berdampingan makin rapat, dan bola yang berurutan makin menjauh.
+
+46
+00:04:27,333 --> 00:04:32,613
+Meski tanpa bobot, bola-bola itu tampak bergerak dengan sendirinya.
+
+47
+00:04:33,333 --> 00:04:42,117
+Meskipun gravitasi sulit dibedakan dengan akselerasi, di dalam pesawat ini pergerakan itu tetap terlihat.
+
+48
+00:04:42,899 --> 00:04:51,971
+Inilah gaya pasang surut. Efek gravitasi yang tak bisa dihilangkan karena perbedaan gravitasi di tiap lokasi.
+
+49
+00:04:52,071 --> 00:04:57,351
+Pasang surut air laut di Bumi juga disebabkan oleh fenomena ini.
+
+50
+00:04:57,451 --> 00:05:04,099
+Gravitasi bulan yang diterima Bumi berbeda kekuatannya di sisi yang dekat dan jauh.
+
+51
+00:05:05,166 --> 00:05:10,326
+Perbedaan itulah yang menarik air laut hingga terjadi pasang surut.
+
+52
+00:05:10,426 --> 00:05:15,394
+Spagetifikasi di lubang hitam dalah contoh ekstrem gaya ini.
+
+53
+00:05:15,494 --> 00:05:24,542
+Di dekat lubang hitam yang gravitasinya sangat kuat, perbedaan antara kepala dan kaki menjadi luar biasa besar.
+
+54
+00:05:24,642 --> 00:05:28,698
+Hasilnya, Anda kan melar seperti spageti.
+
+55
+00:05:28,966 --> 00:05:38,758
+Gaya pasang surut adalah "efek gravitasi asli". Dengan mengukurnya, kita tahu apakah gravitasi benar-benar ada.
+
+56
+00:05:38,858 --> 00:05:42,133
+Nah, sekarang kita masuk ke topik utama hari ini.
+
+57
+00:05:42,233 --> 00:05:46,913
+Efek pasang surut inilah kelengkungan ruang-waktu itu sendiri.
+
+58
+00:05:48,166 --> 00:05:54,790
+Ingat eksperimen bola tadi? Bola menyamping mendekat, bola berurutan menjauh.
+
+59
+00:05:57,699 --> 00:06:04,923
+Dari dalam pesawat jatuh bebas, bola tampak bergerak meski dalam kondisi tanpa bobot.
+
+60
+00:06:06,466 --> 00:06:10,978
+Inilah arti sebenarnya dari "ruang-waktu yang melengkung".
+
+61
+00:06:11,078 --> 00:06:16,814
+Di atas kertas datar, garis sejajar akan tetap sejajar selamanya.
+
+62
+00:06:17,399 --> 00:06:23,183
+Namun hal itu tidak berlaku di ruang melengkung, seperti permukaan Bumi.
+
+63
+00:06:24,366 --> 00:06:32,550
+Lintasan benda yang jatuh bebas disebut geodesik, yaitu jalur terpendek dalam ruang-waktu melengkung.
+
+64
+00:06:32,650 --> 00:06:41,602
+Benda yang jatuh bebas sebenarnya bergerak lurus menempuh jarak terpendek di sepanjang garis geodesik ini.
+
+65
+00:06:42,399 --> 00:06:48,255
+Perubahan jarak antara dua garis geodesik disebut deviasi geodesik.
+
+66
+00:06:48,866 --> 00:06:55,802
+Fenomena bola yang mendekat atau menjauh tadi adalah contoh deviasi geodesik ini.
+
+67
+00:06:56,866 --> 00:07:05,650
+Matematikawan Bernhard Riemann menemukan cara untuk mendeskripsikan pergerakan garis-garis ini secara matematis.
+
+68
+00:07:08,933 --> 00:07:12,245
+Itulah yang dinamakan Kurvatur Riemann.
+
+69
+00:07:12,866 --> 00:07:20,378
+Kurvatur Riemann mengukur seberapa besar dua benda jatuh bebas saling mendekat atau menjauh.
+
+70
+00:07:20,478 --> 00:07:28,518
+Einstein menganggap Kurvatur Riemann ini sebagai kelengkungan ruang-waktu, atau gravitasi itu sendiri.
+
+71
+00:07:28,618 --> 00:07:34,738
+Gaya pasang surut lahir dari perbedaan gravitasi akibat deviasi geodesik.
+
+72
+00:07:35,766 --> 00:07:42,390
+Semakin besar kelengkungan ruang-waktu, semakin besar pula gaya pasang surutnya.
+
+73
+00:07:42,490 --> 00:07:52,666
+Gaya pasang surut, deviasi geodesik, dan Kurvatur Riemann hanyalah konsep yang sama yang muncul dengan cara berbeda.
+
+74
+00:07:52,933 --> 00:08:00,181
+Pasang surut air laut ternyata adalah fenomena akrab yang menunjukkan kelengkungan ruang-waktu.
+
+75
+00:08:00,281 --> 00:08:04,385
+Mungkin ada di antara penonton yang suka memancing.
+
+76
+00:08:04,500 --> 00:08:09,876
+Bisa dikatakan Anda memancing sambil menikmati kelengkungan ruang-waktu.
+
+77
+00:08:10,333 --> 00:08:15,853
+Mari pahami kelengkungan lebih dalam melalui konsep transportasi paralel.
+
+78
+00:08:15,953 --> 00:08:22,313
+Hal aneh bisa terjadi pada perpindahan sejajar sederhana di ruang-waktu melengkung.
+
+79
+00:08:22,413 --> 00:08:28,029
+Bayangkan Anda berjalan di dalam ruangan sambil menunjuk ke arah selatan.
+
+80
+00:08:29,000 --> 00:08:37,976
+Setelah berputar satu lingkaran dan kembali ke titik awal, jari Anda akan tetap menunjuk ke selatan, 'kan?
+
+81
+00:08:39,000 --> 00:08:46,152
+Ini terlihat wajar, tapi di ruang melengkung seperti permukaan Bumi, hasilnya berbeda.
+
+82
+00:08:46,252 --> 00:08:53,524
+Berdirilah di Kutub Utara, tunjuk ke selatan, lalu berjalanlah ke arah khatulistiwa.
+
+83
+00:08:55,633 --> 00:09:03,913
+Setelah sampai, berjalanlah ke arah timur sejauh 90 derajat sambil tetap menunjuk ke selatan.
+
+84
+00:09:04,013 --> 00:09:08,717
+Kemudian, kembalilah berjalan lurus menuju Kutub Utara.
+
+85
+00:09:08,817 --> 00:09:12,921
+Kira-kira ke arah mana jari Anda akan menunjuk sekarang?
+
+86
+00:09:13,021 --> 00:09:17,653
+Arahnya bergeser 90 derajat dari posisi semula!
+
+87
+00:09:17,753 --> 00:09:24,641
+Anda merasa selalu menunjuk ke selatan, tapi arahnya berubah dalam satu putaran.
+
+88
+00:09:25,266 --> 00:09:28,962
+Itulah makna lain dari "ruang yang melengkung".
+
+89
+00:09:29,062 --> 00:09:37,558
+Meski merasa tetap di arah yang sama, jika jalurnya melengkung, arah tersebut tak bisa dipertahankan.
+
+90
+00:09:38,833 --> 00:09:45,505
+Hal yang sama terjadi pada ruang-waktu di sekitar objek masif seperti lubang hitam.
+
+91
+00:09:51,266 --> 00:09:58,082
+Gravitasi tampak bisa dihilangkan, seperti di pesawat yang sedang jatuh bebas.
+
+92
+00:09:58,182 --> 00:10:04,902
+Tapi ada efek gravitasi esensial yang tak hilang, yaitu gaya pasang surut.
+
+93
+00:10:05,002 --> 00:10:09,370
+Kurvatur Riemann menjelaskan itu secara matematis.
+
+94
+00:10:09,470 --> 00:10:15,782
+Einstein memakainya di Relativitas Umum untuk menjelaskan kelengkungan ruang-waktu.
+
+95
+00:10:15,882 --> 00:10:23,874
+Fenomena harian seperti pasang surut air laut pun ternyata berkaitan erat dengan hakikat gravitasi.
+
+96
+00:10:23,974 --> 00:10:27,862
+Sampai jumpa di video berikutnya. Salam!

@@ -47,6 +47,9 @@ https://lit.link/samegiraffe
 
 ℹ️ 特にクレジット表記のない画像・動画は、Wikimedia CommonsやPexels、Mixkitなどのフリー素材サイトより利用しています。
 
+🌐 今回の動画は以下のワールドで撮影させていただきました！
+・ 宇宙の屋根裏: https://vrchat.com/home/world/wrld_b0295223-4ead-42ca-8338-43ea713d77b0/info
+
 🎶 今回の動画では以下のサイト様から音楽や効果音の素材をお借りしました
 
 音楽：BGMer
